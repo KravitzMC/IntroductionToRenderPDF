@@ -79,7 +79,7 @@ trailer
 
 #### ผลลัพธ์จะออกมาเป็นดังรูป
 
-![image-20210831225121354](C:\Users\Phattalung\AppData\Roaming\Typora\typora-user-images\image-20210831225121354.png)
+![image-20210831225121354](https://github.com/KravitzMC/IntroductionToPDF-/blob/main/sample.png)
 
 
 
