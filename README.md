@@ -1,4 +1,6 @@
-<img src="https://github.com/KravitzMC/IntroductionToPDF-/blob/main/file_type_pdf_icon_130274.png"/>
+<p align="center">
+  <img src="https://github.com/KravitzMC/IntroductionToPDF-/blob/main/file_type_pdf_icon_130274.png">
+</p>
 
 #  Introduction to Render PDF 
 
