@@ -14,8 +14,8 @@
 <<
   /Type /Catalog
   /Pages 2 0 R
-
->endobj
+>>
+endobj
 
 2 0 obj
 <<
@@ -23,8 +23,8 @@
   /MediaBox [ 0 0 200 200 ]
   /Count 1
   /Kids [ 3 0 R ]
-
->endobj
+>>
+endobj
 
 3 0 obj
 <<
@@ -34,31 +34,31 @@
     /Font <<
       /F1 4 0 R 
     >>
-
-  >/Contents 5 0 R
-  >
-  >endobj
+  >>
+  /Contents 5 0 R
+>>
+endobj
 
 4 0 obj
 <<
   /Type /Font
   /Subtype /Type1
   /BaseFont /Times-Roman
-
->endobj
+>>
+endobj
 
 5 0 obj  % page content
 <<
   /Length 44
-  
->stream
->BT
->70 50 TD
->/F1 12 Tf
->(Hello, world!) Tj
->ET
->endstream
->endobj
+>>
+stream
+BT
+70 50 TD
+/F1 12 Tf
+(Hello, world!) Tj
+ET
+endstream
+endobj
 
 xref
 0 6
@@ -72,11 +72,9 @@ trailer
 <<
   /Size 6
   /Root 1 0 R
-
->startxref
->492
->%%EOF
-
+>>
+startxref
+492
 ```
 
 #### ผลลัพธ์จะออกมาเป็นดังรูป
