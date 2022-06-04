@@ -153,13 +153,13 @@ startxref
 %%EOF
 ```
 
-#### ผลลัพธ์จะออกมาเป็นดังรูป
+### ผลลัพธ์จะออกมาเป็นดังรูป
 
 ![image-20210831225121354](https://github.com/KravitzMC/IntroductionToPDF-/blob/main/sample.png)
 
+#### เราสามารถนำวิธีการแนวทางนี้ไปประยุกต์เขียนโปรแกรมด้วยภาษาต่าง ๆ ตามที่เราต้องการสุดจะแล้วแต่ ไม่ว่าจะ Render, Split, Merge แต่ควรทำความเข้าใจ PDF Structure ให้เป็นอย่างดีเสียก่อน
 
-
-#### PDF Structure
+### PDF Structure
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KravitzMC/IntroductionToRenderPDF/main/pdf_ange_albertini.png">
@@ -167,4 +167,3 @@ startxref
 
 ดูข้อมูลเพิ่มเติมได้ที่ : <a href="https://github.com/zbetcheckin/PDF_analysis" title="Learn Markdown"> PDF Analysis </a>
 
-#### เราสามารถนำวิธีการแนวทางนี้ไปประยุกต์เขียนโปรแกรมด้วยภาษาต่าง ๆ ตามที่เราต้องการสุดจะแล้วแต่ ไม่ว่าจะ Render, Split, Merge แต่ควรทำความเข้าใจ PDF Structure ให้เป็นอย่างดีเสียก่อน
