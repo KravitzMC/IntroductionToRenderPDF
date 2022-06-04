@@ -4,8 +4,10 @@
 
 #  Introduction to Render PDF 
 
-พื้นฐานการ Render PDF โดยความเป็นความจริงแล้วง่ายแค่ปลายนิ้ว ยกเว้นการ Learning Curve Structure ของมันสูงเป็นอย่างมากจนต้องถอดใจกันเลยทีเดียว !!!
-หลังจากที่ผมได้ศึกษาวิธีการ Render PDF บนเอกสาร [Adobe Reference 1.4](https://www.adobe.com/content/dam/acom/en/devnet/pdf/pdfs/pdf_reference_archives/PDFReference.pdf), [Adobe Reference 1.7](https://ghostscript.com/~robin/pdf_reference17.pdf)  พบว่ายุ่งยากพอสมควรเนื่องจากใช้เวลาศึกษาเยอะบวกกับทำความเข้าใจใน Strucutre ของมันยากว่าทำอย่างไรถึงจะ Render ไฟล์เป็น PDF แบบง่าย ๆ ได้เพื่อจะนำไปเขียนเป็นโปรแกรม เนื่องจาก ใน Paper ไม่ได้บอกรายละเอียดเอาไว้ (หรือผมหาไม่เจอเอง!?) ผมจึงค้นหาจนได้ไปข้อมูลจาก Web Archive (Wayback Machine) แห่งหนึ่ง ที่เคยถูกลบออกไปนานแล้ว (ไม่ทราบว่าลบออกไปทำไม??) จนมาเจอวิธีการง่าย ๆ เพียงปลายนิ้วแค่เราทำการสร้าง  PDF Structure แบบ Text ธรรมดาขึ้นมา!!! แล้วเอา โค้ดดังตัวอย่าง ด้านล่างนี้ ไปใส่ใน Notepad หรือ Text Editor อะไรก็ได้  
+พื้นฐานการ Render PDF ความเป็นจริงต้องการ Learning Curve สูงเป็นอย่างมาก หลังจากที่ได้ศึกษาวิธีการ Render PDF บนเอกสาร 
+<a href="https://www.adobe.com/content/dam/acom/en/devnet/pdf/pdfs/pdf_reference_archives/PDFReference.pdf" title="Learn Markdown">Adobe Reference 1.4</a>,
+<a href="https://ghostscript.com/~robin/pdf_reference17.pdf" title="Learn Markdown"> Adobe Reference 1.7 </a>
+พบว่ายุ่งยากพอสมควร แต่การ PDF Render แบบง่าย ๆใช้แค่ Text Editor ธรรมดาอย่าง Notepad ก็ทำได้แล้วจริง ๆ จากโค้ดข้างล่าง
 
 <p align="center">
   <img src="https://miro.medium.com/max/986/1*rkRfUKpT-8OmVwJyXp9k2g.png">
