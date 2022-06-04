@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/KravitzMC/IntroductionToRenderPDF/blob/main/pdf_ange_albertini.png">
+  <img src="https://raw.githubusercontent.com/KravitzMC/IntroductionToRenderPDF/main/pdf_ange_albertini.png">
 </p>
 
 
