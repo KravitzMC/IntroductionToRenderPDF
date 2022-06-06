@@ -13,7 +13,8 @@
   <img src="https://miro.medium.com/max/986/1*rkRfUKpT-8OmVwJyXp9k2g.png">
 </p>
 
-#### ตัวอย่าง PDF Structure Version 1.7 (โดยให้เราทำการ  Save File) เป็น sample.pdf (All File) (Notepad or Any Text Editor)
+#### ตัวอย่าง PDF Structure Version 1.7 (โดยให้เราทำการ  Save File) เป็น sample.pdf 
+(Notepad or Any Text Editor)
 
 ```
 %PDF-1.7
