@@ -14,7 +14,7 @@
 </p>
 
 #### ตัวอย่าง PDF Structure Version 1.7 (โดยให้เราทำการ  Save File) เป็น sample.pdf 
-(Notepad or Any Text Editor)
+(Paste Notepad or Any Text Editor)
 
 ```
 %PDF-1.7
