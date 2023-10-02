@@ -2,7 +2,7 @@
   <img src="https://github.com/KravitzMC/IntroductionToPDF-/blob/main/file_type_pdf_icon_130274.png">
 </p>
 
-#  Introduction to Render PDF 
+#  Introduction to Render PDF from Scratch
 
 พื้นฐานการ Render PDF ความเป็นจริงต้องการ Learning Curve สูงเป็นอย่างมาก หลังจากที่ได้ศึกษาวิธีการ Render PDF บนเอกสาร<h3><a href="https://github.com/KravitzMC/IntroductionToRenderPDF/raw/main/PDF_Reference.7z" title="Learn Markdown">Adobe Reference 1.4, 1.7</h3></a>พบว่ายุ่งยากพอสมควร แต่การ PDF Render แบบง่าย ๆ ใช้แค่ Text Editor ธรรมดาอย่าง Notepad ก็ทำได้แล้วจริง ๆ จากโค้ดข้างล่าง
 
